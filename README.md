@@ -4,9 +4,9 @@ This challenge is to analyze data from a hypothetical school district to help ma
 
 Repository contains a folder called 'PyCitySchools' which will contain three specific items:
 
-    - a subfolder called 'Resources' which will contain the raw data from the schools and students used for analysis
-    - an Jupyter Notebook file named 'PyCitySchools_final.ipynb' where we will import, clean, and perform analysis on the raw data to better understand it
-    - a summary write up on the results determined from the analysis done in 'PyCitySchools_final.ipynb'
+   - a subfolder called 'Resources' which will contain the raw data from the schools and students used for analysis
+   - an Jupyter Notebook file named 'PyCitySchools_final.ipynb' where we will import, clean, and perform analysis on the raw data to better understand it
+   - a summary write up on the results determined from the analysis done in 'PyCitySchools_final.ipynb'
 
 
 # Resources Used
